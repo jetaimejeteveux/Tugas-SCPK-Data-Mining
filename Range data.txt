@@ -1,0 +1,17 @@
+Kehadiran
+rajin : 8.1 - 10
+cukup : 6.1 - 8
+kurang : 1.0 - 6.0
+
+Lingkungan
+kurang peduli 1.0 - 6.0
+peduli 6.1 - 10
+
+kerja sama 
+mampu   6.1 - 10
+tak mampu 1.0 - 6.0
+
+prakarsa 
+tidak inisiatif 1.0 - 6.0
+kurang inisiatif 6.1-8.0
+inisiatif 8.1 - 10
